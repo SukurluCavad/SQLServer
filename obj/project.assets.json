@@ -4111,11 +4111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\FirstData\\FirstData.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\FirstData.csproj",
       "projectName": "FirstData",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\FirstData\\FirstData.csproj",
+      "projectPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\FirstData.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\FirstData\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hCmhVPZB7IrBfzCxnqkuxi4KbanFfiY0AQBmxAiK3oEDBIdn4K33/jQ+Zxg0YsUQwl7pZIBENowz6698zRhbmQ==",
+  "dgSpecHash": "muK6UBg06T0mRQIf1oj31wYrPJcL3YBQc19rEzoQQadU2Jk6DXbHObMdJfwQ8TQeHXtsMJSg9AeMUnTAf8on2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\FirstData\\FirstData.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\FirstData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

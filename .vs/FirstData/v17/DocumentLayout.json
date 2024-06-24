@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\FirstData\\",
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\source\\repos\\firstdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\onedrive\\desktop\\tasklar\\firstdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\source\\repos\\firstdata\\migrations\\20240623231805_modifiedbookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\onedrive\\desktop\\tasklar\\firstdata\\migrations\\20240623231805_modifiedbookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|solutionrelative:migrations\\20240623231805_modifiedbookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\source\\repos\\firstdata\\dal\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\onedrive\\desktop\\tasklar\\firstdata\\dal\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|solutionrelative:dal\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\source\\repos\\firstdata\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\onedrive\\desktop\\tasklar\\firstdata\\models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|solutionrelative:models\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\source\\repos\\firstdata\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\onedrive\\desktop\\tasklar\\firstdata\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\source\\repos\\firstdata\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\onedrive\\desktop\\tasklar\\firstdata\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\source\\repos\\firstdata\\migrations\\20240623225433_initialfirstdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|c:\\users\\asus\\onedrive\\desktop\\tasklar\\firstdata\\migrations\\20240623225433_initialfirstdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3001BA23-088A-41DF-8F47-F455EEE4E50B}|FirstData.csproj|solutionrelative:migrations\\20240623225433_initialfirstdemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,22 +48,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "20240623231805_ModifiedBookEntity.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Migrations\\20240623231805_ModifiedBookEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Migrations\\20240623231805_ModifiedBookEntity.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623231805_ModifiedBookEntity.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Migrations\\20240623231805_ModifiedBookEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Migrations\\20240623231805_ModifiedBookEntity.cs",
               "RelativeToolTip": "Migrations\\20240623231805_ModifiedBookEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T23:18:06.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-23T23:18:06.184Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "20240623225433_Initialfirstdemo.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Migrations\\20240623225433_Initialfirstdemo.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Migrations\\20240623225433_Initialfirstdemo.cs",
               "RelativeDocumentMoniker": "Migrations\\20240623225433_Initialfirstdemo.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Migrations\\20240623225433_Initialfirstdemo.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Migrations\\20240623225433_Initialfirstdemo.cs",
               "RelativeToolTip": "Migrations\\20240623225433_Initialfirstdemo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,9 +72,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AppDbContex.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FirstData\\DAL\\AppDbContex.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\DAL\\AppDbContex.cs",
               "RelativeDocumentMoniker": "DAL\\AppDbContex.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FirstData\\DAL\\AppDbContex.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\DAL\\AppDbContex.cs",
               "RelativeToolTip": "DAL\\AppDbContex.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAEAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,9 +84,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Models\\Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Models\\Teacher.cs",
               "RelativeDocumentMoniker": "Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Models\\Teacher.cs",
               "RelativeToolTip": "Models\\Teacher.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,9 +96,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Human.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Models\\Human.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Models\\Human.cs",
               "RelativeDocumentMoniker": "Models\\Human.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Models\\Human.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Models\\Human.cs",
               "RelativeToolTip": "Models\\Human.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +108,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Models\\Book.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\FirstData\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\OneDrive\\Desktop\\Tasklar\\FirstData\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

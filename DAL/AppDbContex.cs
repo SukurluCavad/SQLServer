@@ -1,5 +1,5 @@
 ﻿using FirstData.Models;
-//using Humanizer;
+using Humanizer;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
